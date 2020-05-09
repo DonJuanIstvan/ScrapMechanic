@@ -1,0 +1,13 @@
+H:\Git\Code\ScrapMechanicHostManager\ScrapMechanicHostManager\obj\Debug\ScrapMechanicHostManager.csprojAssemblyReference.cache
+H:\Git\Code\ScrapMechanicHostManager\ScrapMechanicHostManager\obj\Debug\ScrapMechanicHostManager.csproj.CoreCompileInputs.cache
+H:\Git\Code\ScrapMechanicHostManager\ScrapMechanicHostManager\bin\Debug\ScrapMechanicHostManager.exe.config
+H:\Git\Code\ScrapMechanicHostManager\ScrapMechanicHostManager\bin\Debug\ScrapMechanicHostManager.exe
+H:\Git\Code\ScrapMechanicHostManager\ScrapMechanicHostManager\bin\Debug\ScrapMechanicHostManager.pdb
+H:\Git\Code\ScrapMechanicHostManager\ScrapMechanicHostManager\bin\Debug\GitSharp.Core.dll
+H:\Git\Code\ScrapMechanicHostManager\ScrapMechanicHostManager\bin\Debug\GitSharp.dll
+H:\Git\Code\ScrapMechanicHostManager\ScrapMechanicHostManager\bin\Debug\ICSharpCode.SharpZipLib.dll
+H:\Git\Code\ScrapMechanicHostManager\ScrapMechanicHostManager\bin\Debug\Tamir.SharpSSH.dll
+H:\Git\Code\ScrapMechanicHostManager\ScrapMechanicHostManager\bin\Debug\Winterdom.IO.FileMap.dll
+H:\Git\Code\ScrapMechanicHostManager\ScrapMechanicHostManager\obj\Debug\ScrapMechanicHostManager.csproj.CopyComplete
+H:\Git\Code\ScrapMechanicHostManager\ScrapMechanicHostManager\obj\Debug\ScrapMechanicHostManager.exe
+H:\Git\Code\ScrapMechanicHostManager\ScrapMechanicHostManager\obj\Debug\ScrapMechanicHostManager.pdb
